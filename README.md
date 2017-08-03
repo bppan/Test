@@ -188,6 +188,7 @@ curl -X POST 'http://HOST/api/project/clone ' \
 | code    | int    | 10000    | 返回码    |
 | errMsg  | strng  | "sucess" | 接口返回信息 |
 | content | object | null     |        |
+
 content参数
 
 | 名称                   | 类型     | 示例值  | 描述              |
