@@ -256,6 +256,7 @@ curl -X GET 'http://$HOST/api/project/info' \
 | page        | int    |       | 当前页，从1开始，默认为1 |
 | page_size   | int    |       | 当前页大小，默认为10   |
 | total_count | int    |       | 结果总数          |
+
 data参数
 
 | 名称                   | 类型     | 示例值  | 描述             |
