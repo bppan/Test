@@ -604,17 +604,17 @@ curl
 正常响应结果
 ```json
 [{
-  "Togglable":true，
-  "creation_time":"2017-07-26T08:37:13Z"
-  "creation_time_str":""
-  "current_user_role_id":1
- "deleted":0
-  "name":"base"
-  "owner_id":1
-  "owner_name":""
-  "project_id":3
-  "public":1
-  "repo_count":0
+  "Togglable":true,
+  "creation_time":"2017-07-26T08:37:13Z",
+  "creation_time_str":"",
+  "current_user_role_id":1,
+  "deleted":0,
+  "name":"base",
+  "owner_id":1,
+  "owner_name":"",
+  "project_id":3,
+  "public":1,
+  "repo_count":0,
   "update_time":"2017-07-26T08:37:13Z"
 },
 ]
